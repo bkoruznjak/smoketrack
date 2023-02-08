@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66869207361",
+    "project_id": "smoketrack-370cc",
+    "storage_bucket": "smoketrack-370cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66869207361:android:ffc4d0c5f8c48e518141c0",
+        "android_client_info": {
+          "package_name": "hr.flowable.smoketrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66869207361-0c86g1rjpto47sj1pl5ovh819jg2sqri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.flowable.smoketrack",
+            "certificate_hash": "6afa8b837d1d6c9116f4de4dd4b3b3b5467de703"
+          }
+        },
+        {
+          "client_id": "66869207361-5hoq332kb0pnaupvu29t41fl9atgmbt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDABCh_emvDKOYEmxK_OIDAjyRlWb8kqxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66869207361-5hoq332kb0pnaupvu29t41fl9atgmbt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
