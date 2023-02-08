@@ -7,9 +7,7 @@ class TimestampParser(private val clock: Clock) {
     fun totalCigarettesOnDayCounter(utcTimestamps: List<Long>): Int {
         val dates: List<LocalDateTime> = utcTimestamps.map { it.asLocalDateTime() }
         val today = clock.today()
-        println("today $today")
 
-        dates.forEach { println("date $it") }
         return dates.count {
             (it.toLocalDate() == today &&
                     it.hour >= 6) || (it.toLocalDate() == today.plusDays(1) && it.hour < 6)
