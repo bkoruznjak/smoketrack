@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Smoke track</string>
+
+  <string name="text_total_cigarettes">Total:\n%1$d</string>
+  <string name="text_total_cigarettes_per_day">Total day:\n%1$d</string>
+  <string name="text_last_cigarette_smoked_ago">Last:\n%1$s ago</string>
+</resources>
